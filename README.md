@@ -1,6 +1,6 @@
 # Krates
 
-[🇮🇩 Baca dalam Bahasa Indonesia](README.id.md)
+[🇮🇩 Baca dalam Bahasa Indonesia]([README.md)
 
 > Named after Socrates — an AI debate partner that questions you instead of just agreeing with you.
 
